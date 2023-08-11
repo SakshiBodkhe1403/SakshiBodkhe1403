@@ -1,4 +1,5 @@
  Hi there 👋
+ 
  I'm Sakshi!!!
  
  I’m Software Developer, Web Developer and Programmer.
@@ -7,4 +8,4 @@
  You can also find me on LinkedIn...
 
 Email: sakshibodkhe9214@gmail.com
-LinkedIn: linkedin.com/in/sakshi-bodkhe-588432235
+LinkedIn: http://www.linkedin.com/in/sakshi-bodkhe-588432235
